@@ -1,1 +1,2 @@
-learning develops using github
+learning develops using Github
+it is a part of devops  hackthon
